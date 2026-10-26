@@ -1,0 +1,28 @@
+{
+  "version": "0.5.8",
+  "en": [
+    "Doc pages get an outline rail beside the body; outline: picks the side",
+    "am serve --tailscale opens page links from a phone on your tailnet",
+    "Remarks work from the keyboard; quotations skip the writing check"
+  ],
+  "zh": [
+    "doc 页面的目录改成正文旁的导轨，outline: 选择放在哪一侧",
+    "am serve --tailscale：tailnet 里的手机也能打开页面链接",
+    "标注可以全程用键盘完成；引号里的文字不再参与写作检查"
+  ],
+  "zh-Hant": [
+    "doc 頁面的目錄改成正文旁的導軌，outline: 選擇放在哪一側",
+    "am serve --tailscale：tailnet 裡的手機也能開啟頁面連結",
+    "標註可以全程用鍵盤完成；引號裡的文字不再參與寫作檢查"
+  ],
+  "ja": [
+    "doc ページの目次が本文横のレールに。outline: で左右を選べます",
+    "am serve --tailscale で tailnet 内のスマホからページを開けます",
+    "注記をキーボードだけで付けられます。引用文は文章チェックの対象外です"
+  ],
+  "he": [
+    "בדפי doc תוכן העניינים הוא פס צר לצד הטקסט; outline: בוחר את הצד",
+    "am serve --tailscale פותח קישורים לדפים מהטלפון ברשת ה-tailnet",
+    "אפשר לסמן בעזרת המקלדת בלבד; ציטוטים לא נבדקים בבדיקת הכתיבה"
+  ]
+}
